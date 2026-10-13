@@ -1,6 +1,6 @@
 # Student Submissions
 
-Each pair must submit its work in its
+Each student must submit its work in its
 assigned folder.
 
-Example: submissions/Binome_01/
+Example: submissions/Student_01/
